@@ -1,6 +1,6 @@
 # Udacity-Finding-Donors-CharityML
 Building an ML Model to Best Identify Potential Donors and Reduce Overhead Cost of Sending Mails.
-### Udacity Competition on Kaggle Notebook : 
+
 #### This repository is part of the Udacity Machine Learning Nanodegree sponsored by egFWD Intiative.
 
 This project is designed to get acquainted with the many supervised learning algorithms available in sklearn, and to also provide for a method of evaluating just how each model works and performs on a certain type of data. It is important in machine learning to understand exactly when and where a certain algorithm should be used, and when one should be avoided.
